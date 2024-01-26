@@ -65,4 +65,4 @@ This application allows you to save contacts and perform update and delete opera
 
 **Step 4:** Run the command `npm run dev`
 
-**Step 5:** Application is now running on localhos
+**Step 5:** Run the command `npm run start`
